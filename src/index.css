@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background-color: #f5f2ec;
+  color: #3a2e2e;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
